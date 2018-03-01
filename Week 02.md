@@ -5,7 +5,7 @@
 | Studded Arc Logo Leather Jacket                                                  | Jackets       | White, Black, Red                                                                   | S, M, L, XL | Studded        |
 | Tiger Stripe Track Jacket                                                        | Jackets       | Brown, White                                                                        | S, M, L, XL | Track          |
 | Zip Up Work Shirt                                                                | Shirts        | Navy, White, Black, Burgundy                                                        | S, M, L, XL | Work           |
-| Tartan Flannel Shirt                                                             | Shirts        | Can't Figure this one out..                                                         | S, M, L, XL | Tartan         |
+| Tartan Flannel Shirt                                                             | Shirts        | Purple, Light Olive                                                                 | S, M, L, XL | Tartan         |
 | Stacked L/S Top                                                                  | Tops/Sweaters | Pale Yellow, Black, Pink Camo, White, Navy, Red, Blue Camo, Heather Grey            | S, M, L, XL | Stacked        |
 | Corduroy Baseball Jersey                                                         | Tops/Sweaters | Royal, White, Black, Green, Orange                                                  | S, M, L, XL | Corduroy       |
 | Multi Stripe L/S Top                                                             | Tops/Sweaters | Green, White, Fuchsia, Black                                                        | S, M, L, XL | Multi          |
@@ -18,7 +18,7 @@
 | Repeat Mesh Back 5-Panel                                                         | Accessories   | Yellow, Navy, Camo, Red, White, Black                                               | N/A         | Repeat         |
 | Denim Suede Compact Logo 6-Panel                                                 | Accessories   | Navy, White, Orange, Peach, Black, Aqua                                             | N/A         | Denim          |
 | Coated Linen Camp Cap                                                            | Accessories   | Red, Yellow, Black, Orange, Navy                                                    | N/A         | Linen          |
-| Supreme®/Wilson® Tennis Balls                                                    | Accessories   | N/A                                                                                 | N/A         | Tennis         |
-| Supreme/Vans Skull Pile Sk8-Hi                                                   | Shoes         | N/A                                                                                 | Shoe Size   | Sk8-Hi         |
-| Supreme/Vans Skull Pile Slip-On                                                  | Shoes         | N/A                                                                                 | Shoe Size   | Slip-On        |
+| Supreme®/Wilson® Tennis Balls                                                    | Accessories   | White                                                                               | N/A         | Tennis         |
+| Supreme/Vans Skull Pile Sk8-Hi                                                   | Shoes         | Multi                                                                               | Shoe Size   | Sk8-Hi         |
+| Supreme/Vans Skull Pile Slip-On                                                  | Shoes         | Multi                                                                               | Shoe Size   | Slip-On        |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
