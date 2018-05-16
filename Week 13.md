@@ -1,0 +1,28 @@
+### Supreme Week 13 
+| **Item**                                                                         | **Catagory**  | **Colors**                                                                          | **Size**    | **Keyword**    |
+| :--------------------------------------------------------------------------------|:-------------:| :-----------------------------------------------------------------------------------|:------------|:---------------|
+| Patches Denim Trucker Jacket                                                     | Jackets       | Denim, Black			                                                             | S, M, L, XL | Patches        |
+| Court Half Zip Pullover  	                                                       | Jackets       | Black			                                     		                         | S, M, L, XL | Court          |
+| S/S Oxford Shirt			                                                       | Shirts        | Peach, Lavender, Black, White, Cyan                                                 | S, M, L, XL | Oxford         |
+| Tiger Stripe Rayon Shirt                                                         | Shirts 	   | Brown, White, Fuchsia, Cyan                                                         | S, M, L, XL | Tiger          |
+| Gradient Arc Top                                                                 | Tops/Sweaters | Cyan, Black, Red, Navy, White, Yellow, Peach, Heather Grey            		         | S, M, L, XL | Gradient       |
+| Yoke Piping L/S Top                                                              | Tops/Sweaters | Black, White, Navy, Cyan                                                            | S, M, L, XL | Piping         |
+| Monogram Football Jersey                                                         | Tops/Sweaters | Green, Brown, Light Blue, Red            										     | S, M, L, XL | Monogram       |
+| Plaid Knit Polo		                                                           | Tops/Sweaters | Lavender, Gold, Black, Green                                                  		 | S, M, L, XL | Plaid          |
+| Contrast Crewneck                                                                | Sweatshirts   | Grey, Navy, Red, Mocha, Black, Green                                                | S, M, L, XL | Crewneck       |
+| Contrast Zip Up Hooded Sweatshirt                                                | Sweatshirts   | Grey, Navy, Red, Mocha, Black, Green                                                | S, M, L, XL | Zip Up         |
+| Warm Up Pants			                                                           | Pants 		   | Green, Grey, Navy, Red, Black, Purple, Orange, Blue Camo, Pale Yellow               | Pant Size   | Warm Up        |
+| Arc Logo Water Short 			                                                   | Shorts 	   | Black, Green, Red, Royal Blue, Yellow                           				     | S, M, L, XL | Arc Logo       |
+| Monogram Shorts					                                               | Shorts        | Red, Light Blue, Green, Brown                             							 | S, M, L, XL | Monogram       |
+| Velour Warm Up Shorts	                                                           | Shorts		   | Black, Orange, White, Lime Green. Light Blue                                        | S, M, L, XL | Velour         |
+| Monogram Box Logo New Era                                                        | Hats		   | Red, Light Blue, Green, Brown                                                       | N/A         | Monogram       |
+| Jacquard Box Logo Camp Cap                                                       | Hats		   | Light Blue, Black, Pink, Cyan                                             		     | N/A         | Jacquard       |
+| Embossed Logo 6-Panel			                                                   | Hats		   | Navy, Mocha, White, Red, Yellow, Pink, Red, Black                                   | N/A         | Embossed       |
+| Hair Bobbles (Set of 2)                                                          | Accessories   | N/A  			                                                				   	 | N/A         | Hair	        |
+| Chicken Dinner Plate Ashtray   	                                               | Accessories   | White                                                    							 | N/A         | Ashtray        |
+| Astro Sunglasses   			                                                   | Accessories   | White, Black, Orange, Red, Light Blue                                               | N/A         | Astro          |
+| Plaza Sunglasses   			                                                   | Accessories   | White, Cheetah, Lavender, Black                                                     | N/A         | Plaza          |
+| Booker Sunglasses   			                                                   | Accessories   | Cheetah, Yellow, Cyan, Black                                                        | N/A         | Booker         |
+| Exit Sunglasses   			                                                   | Accessories   | Silver, Gold, Black                                                                 | N/A         | Exit           |
+| Royale Sunglasses   			                                                   | Accessories   | Cheetah, Red, Green, Black                                                          | N/A         | Royale         |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
